@@ -44,3 +44,12 @@ Welcome to my GitHub profile page!! I'm currently pursing my M.tech degree major
 <h2 align="left">🌐Socials</h2>
 
 ###
+
+<div align="left">
+  <!-- LinkedIn -->
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <img width="12" />
+
+  <!-- Instagram -->
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+</div>
